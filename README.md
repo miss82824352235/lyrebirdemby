@@ -1,2 +1,2 @@
-LyrebirdEmby WiKI
-Based on VitePress
+LyrebirdEmby WiKI  
+Base on VitePress

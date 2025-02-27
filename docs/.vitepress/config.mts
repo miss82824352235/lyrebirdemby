@@ -20,7 +20,8 @@ export default defineConfig({
           { text: '使用须知', link: '/rules' },
           { text: '求片指南', link: '/download' },
           { text: '合作机场', link: '/airport' },
-          { text: '疑难杂症', link: '/faq' }
+          { text: '疑难杂症', link: '/faq' },
+          { text: '联系我们', link: '/about' }
         ]
       }
     ],
@@ -32,6 +33,13 @@ export default defineConfig({
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © LyrebirdEmby 2025'
+    },
+    lastUpdated: {
+      text: '最后更新时间',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'short'
+      }
     }
   }
 })

@@ -1,7 +1,7 @@
 # LyrebirdEmby (简称鸟服)
 
 LyrebirdEmby 是一个基于纯血硬盘独立服务器的Emby影视库
-![LyrebirdEmby](/src/img/medialibpreview.png "媒体库预览")
+![LyrebirdEmby](/images/medialibpreview.png "媒体库预览")
 
 ## Telegram
 

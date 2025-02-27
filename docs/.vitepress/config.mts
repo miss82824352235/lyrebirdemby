@@ -5,7 +5,7 @@ export default defineConfig({
   title: "LyrebirdEmby",
   description: "A WiKi Page for LyrebirdEmby",
   themeConfig: {
-    logo: '/src/img/lyrebird-logo-small.webp',
+    logo: '@/src/img/lyrebird-logo-small.webp',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },

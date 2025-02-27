@@ -14,7 +14,7 @@ hero:
       text: Telegram群组
       link: https://t.me/lyrebirdchat
   image:
-    src: @/src/img/lyrebird-logo-large.webp
+    src: /src/img/lyrebird-logo-large.webp
     alt: LyrebirdEmby
 
 features:

@@ -29,9 +29,9 @@ LyrebirdEmby 是一个基于纯血硬盘独立服务器的Emby影视库
 
  ~~签到鸟币换取加入~~ 已结束
 
- 合作机场加入
+ 合作机场加入  https://wiki.lyrebirdemby.com/airport.html
 
- 捐赠白名单加入
+ 捐赠白名单加入  https://store.lyrebirdemby.com
 
 
 

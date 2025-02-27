@@ -5,24 +5,33 @@ export default defineConfig({
   title: "LyrebirdEmby",
   description: "A WiKi Page for LyrebirdEmby",
   themeConfig: {
+    logo: '/src/img/lyrebird-logo-small.webp',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '主页', link: '/' },
+      { text: '使用文档', link: '/introduce' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'WIKI文档',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '介绍', link: '/introduce' },
+          { text: '使用须知', link: '/rules' },
+          { text: '求片指南', link: '/download' },
+          { text: '合作机场', link: '/airport' },
+          { text: '疑难杂症', link: '/faq' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'telegram', link: 'https://t.me/lyrebirdchat' }
+    ],
+
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © LyrebirdEmby 2025'
+    }
   }
 })

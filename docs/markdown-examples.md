@@ -1,10 +1,10 @@
-# Markdown Extension Examples
+# Markdown 扩展示例
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+本页面展示了 VitePress 提供的一些内置 Markdown 扩展功能。
 
-## Syntax Highlighting
+## 语法高亮
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
+VitePress 提供由 [Shiki](https://github.com/shikijs/shiki) 驱动的语法高亮功能，并支持行高亮等附加特性
 
 **Input**
 

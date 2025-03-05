@@ -4,7 +4,11 @@
 官网地址 https://dash.lyrebird.cloud  
 机场机器人 https://t.me/LyrebirdCloudBot
 ### 机场价格
-12元/200G/月 119元/200G/年(年订阅附赠LyrebirdEmby注册码并且每月可领取100鸟币)
+12元/200G(每月1号自动重置流量)/月 119元/200G(每月1号自动重置流量)/年
+:::warning
+目前仅年订阅附赠LyrebirdEmby注册码，月订阅没有  
+无退款政策，新疆不可用
+:::
 ### 优惠码
 无优惠码
 ### Emby专线

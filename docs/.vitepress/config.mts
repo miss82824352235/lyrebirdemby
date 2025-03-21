@@ -22,7 +22,7 @@ export default defineConfig({
           { text: '合作机场', link: '/airport' },
           { text: '线路使用', link: '/line' },
           { text: '疑难杂症', link: '/faq' },
-          { text: '联系我们', link: '/about' },
+          { text: '关于我们', link: '/about' },
         ]
       }
     ],

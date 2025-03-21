@@ -28,7 +28,7 @@
 ## 便局
 ![](/images/tgchongtazhe.png)
 :::details
-便局，喜欢骗小白的鸟币，不过确是实打实的鸟服中级Fans  
+便局，喜欢骗小白的鸟币，不过确是实打实的鸟服终级Fans  
 @chongtazhe
 :::
 

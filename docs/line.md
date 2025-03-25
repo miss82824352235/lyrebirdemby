@@ -22,7 +22,8 @@ sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/kuefone/forwardlyre
 非白名单使用被机器人扫到会被封禁账号
 
 ### 江苏等墙中墙地区无法使用白名单线路？
-原因是墙中墙地区是只允许白名单域名，这个需要到国内运营商备案，鸟一个小小emby肯定没有这个能量的，不过可以将白名单线路的域名解析成ip，然后使用ip直连，这样就可以绕过域名限制
+原因是墙中墙地区是只允许白名单域名，这个需要到国内运营商备案，鸟一个小小emby肯定没有这个能量的，不过可以将白名单线路的域名解析成ip，然后使用ip直连，这样就可以绕过域名限制  
+打开这个网站 https://tool.chinaz.com/dns/
 ![LyrebirdEmby](/images/whitelinedns.png "dns解析")
 ![LyrebirdEmby](/images/whitelineip.png "ip解析")
 复制好解析的IP后，用这个ip代理白名单的线路即可  

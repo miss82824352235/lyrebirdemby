@@ -27,7 +27,8 @@ sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/kuefone/forwardlyre
 ![LyrebirdEmby](/images/whitelinedns.png "dns解析")
 ![LyrebirdEmby](/images/whitelineip.png "ip解析")
 复制好解析的IP后，用这个ip代理白名单的线路即可  
-:::tips
+
+:::tips  
 这个ip地址是会变动的，大概一周一次，当你连不上这个线路的时候，可以重试上面的步骤。没办法，这是墙中墙地区的劣势  
 解析出来的ip不要泄漏给别人，白名单线路没有CDN等保护，十分脆弱请爱护它  
 :::

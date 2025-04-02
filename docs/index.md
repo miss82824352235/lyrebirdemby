@@ -26,7 +26,7 @@ features:
     details: 自开发求片机器人，服里没有的资源一键下载
   - icon: 💰
     title: 保号轻松
-    details: 每月仅60鸟币，每天随机1-10个，毫无压力
+    details: 每月仅75鸟币，每天随机1-10个，毫无压力
   - icon: 🔄
     title: 兼容性强
     details: 除网易爆米花外，其他播放器均可正常使用

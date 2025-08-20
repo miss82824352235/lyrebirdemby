@@ -1,6 +1,6 @@
-# LyrebirdEmby (琴鸟)点播制半公益
+# LyrebirdEmby (琴鸟)
 
-LyrebirdEmby 是一个基于纯血硬盘独立服务器的点播制半公益Emby影视库
+LyrebirdEmby 是 纯硬盘 点播制 半公益 Emby影视库
 ![LyrebirdEmby](/images/medialibpreview.png "媒体库预览")
 
 ## Telegram

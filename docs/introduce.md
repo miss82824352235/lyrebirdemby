@@ -1,14 +1,18 @@
-# LyrebirdEmby (简称鸟服)
+# LyrebirdEmby (琴鸟)点播制半公益
 
-LyrebirdEmby 是一个基于纯血硬盘独立服务器的Emby影视库
+LyrebirdEmby 是一个基于纯血硬盘独立服务器的点播制半公益Emby影视库
 ![LyrebirdEmby](/images/medialibpreview.png "媒体库预览")
 
 ## Telegram
 
 [通知频道](https://t.me/lyrebirdchannel)  
 [聊天群组](https://t.me/lyrebirdchat)  
-[入库通知频道](https://t.me/lyrebird_Inbound)  
+[入库通知频道](https://t.me/lyrebird_Inbound) 
+[机场地址](https://dash.lyrebird.cloud) 
 [开号机器人]( https://t.me/Lyrebird_bot)
+[机场合作账号机器人]( https://t.me/LyrebirdCloudBot)
+[自助查种机器人]( https://t.me/pteebot)
+[自助下片机器人]( https://t.me/Lyrebird_download_bot)
 
 ## 开服时间
 
@@ -22,7 +26,7 @@ LyrebirdEmby 是一个基于纯血硬盘独立服务器的Emby影视库
 
 ## 适合人群
 
-Emby集邮退烧，PT/NAS退坑，自定义点播，追新剧集，追求速度
+Emby集邮退烧，PT/NAS退坑，自定义点播，追新剧集，追求速度，最求稳定，上至九十九，下至刚会走，男女老少皆宜。
 
 ## 负载人数
 

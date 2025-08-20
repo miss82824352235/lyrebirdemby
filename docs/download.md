@@ -37,7 +37,7 @@
 ## 求片范围
 尽量下载 做种数多的，带有制作组后缀的 如 ADweb,HHweb,Mweb,FRDS等等 
 
-资源关键词屏蔽 REMUX / Blu-ray / BluRay / BD /ISO / 原盘   :::tip 资源的大小和观看体验非线性关系 :::
+下片机器人屏蔽以下关键词   REMUX / Blu-ray / BluRay / BD /ISO / 原盘      :::tip 资源的大小和观看体验非线性关系 :::
 
 尽量不要下载 Dolby Vision / DV / 杜比视界 / HDR10+ / HDR10PLUS ，大多数人的设备不支持，在不兼容的设备上看观看效果极差  :::tip 杜比发紫，HDR10发绿 :::
 

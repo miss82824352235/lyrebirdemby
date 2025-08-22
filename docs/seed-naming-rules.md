@@ -5,21 +5,11 @@
 
 ---
 
-<a href="#-小白专区-newbie-zone">
-  <h2>⭐️ 小白专区 (Newbie Zone)</h2>
-</a>
+## [⭐️ 小白专区 (Newbie Zone)](#-小白专区-newbie-zone)
+> **我是新手？点这里！** 为初次接触的用户准备的快速入门指南。这里有您需要知道的一切核心概念，助您轻松选择合适的版本。
 
-> **我是新手？点这里！**
-> 
-> 为初次接触的用户准备的快速入门指南。这里有您需要知道的一切核心概念，助您轻松选择合适的版本。
-
-<a href="#-硬核发烧专区-hardcore-enthusiast-zone">
-  <h2>💎 硬核发烧专区 (Hardcore Enthusiast Zone)</h2>
-</a>
-
-> **我是高玩？点这里！**
-> 
-> 为追求极致的收藏家和技术爱好者准备的深度解析。这里包含了所有术语的详尽解释、技术细节和圈内惯例。
+## [💎 硬核发烧专区 (Hardcore Enthusiast Zone)](#-硬核发烧专区-hardcore-enthusiast-zone)
+> **我是高玩？点这里！** 为追求极致的收藏家和技术爱好者准备的深度解析。这里包含了所有术语的详尽解释、技术细节和圈内惯例。
 
 
 ---
@@ -115,14 +105,10 @@
 * [🔞 AV (Adult Video) 命名规则](#-av-adult-video-命名规则-1)
 * [🛠️ 常用工具与资源站点推荐](#️-常用工具与资源站点推荐-1)
 * [🔬 实战环节](#-实战环节-1)
-* [🙏 鸣谢与知识来源](#-鸣谢与知识来源-acknowledgements--knowledge-sources)
-* [📚 参考链接](#-参考链接-references)
-* [✨ 结语](#-结语)
 </details>
 
 ### 💾 数字收藏理念与最佳实践
 理解了所有规则之后，我们来探讨“为什么”要这么做，以及如何建立自己的收藏体系。
-
 <details>
 <summary><strong>点击查看收藏哲学与实践</strong></summary>
 
@@ -152,7 +138,6 @@
 
 ### ⚖️ 常见误区与争议话题
 每个圈子都有经久不衰的“圣战”。了解这些争议，能让你更深刻地理解各种格式的本质。
-
 <details>
 <summary><strong>🤔 Remux画质一定比BDRip好吗？</strong></summary>
 * **数据层面**: **是的**。Remux是无损提取，保留了100%的原始数据。
@@ -1096,62 +1081,3 @@ RMVB由于很多年没有更新编码，再加上当初开发RMVB是为了做网
     - **标签**: `[Uncensored-1080p]` ([无码](#-u--uncensored-无码无马赛克), 1080p分辨率)
     - **字幕**: `_CHS` (带中文字幕)
 </details>
-
----
-### 🙏 鸣谢与知识来源 (Acknowledgements & Knowledge Sources)
-本指南的撰写，除了作者本人的经验积累，还得益于全球数字媒体爱好者社区多年来沉淀的集体智慧。特此鸣谢以下平台、组织及社区，它们是本指南各项深度知识的主要来源：
-
-#### 基础技术标准与维基
-* **维基百科 (Wikipedia)**: 所有公开技术（如各类编码、封装格式）的基础定义和历史沿革的主要参考。
-* **开发者与标准组织**:
-    * **Dolby Developer, DTS, IMAX**: 杜比、DTS、IMAX官方网站，提供了关于其各自技术（如Atmos, DTS:X, Dolby Vision, IMAX Enhanced）的最权威解释。
-    * **x264, x265, FFmpeg 项目文档**: 开源编码器和处理工具的官方文档，是理解视频压制参数的根本。
-    * **The Matroska Project**: MKV封装格式的官方规格文档。
-
-#### 社区规范与深度知识
-> 许多“黑话”和“最佳实践”并非来自官方，而是源于以下这些全球最硬核的爱好者社区的讨论和共识。
-
-* **影视剧 & PT文化**:
-    * **Doom9's Forum**: 全球最老牌、最硬核的数字视频技术论坛，是无数视频编码技术和压制理论的发源地。
-    * **AVSForum**: 顶级的家庭影院技术论坛，关于HDR、音频格式等硬件和体验的讨论非常深入。
-    * **知名PT站点的社区维基与规则**: （出于私密性考虑不便列举站名）各大顶级PT站的Wiki和规则区，是`Remux`制作标准、版本命名规范、`NFO`文件写法的“立法”源头。
-
-* **音乐发烧友**:
-    * **Hydrogenaudio Forums**: 数字音频领域的“圣地”，关于音频编解码器、无损抓轨（EAC/XLD）、盲听测试（ABX）的终极权威。
-    * **What.CD (及其精神继承者)**: 已关闭的传奇音乐PT站，其制定的无损音乐抓取、记录（Log/Cue）和分享标准，至今仍是全球发烧友社区的黄金准则。
-    * **Discogs, MusicBrainz**: 最全面的音乐发行元数据数据库。
-
-* **番剧 & 字幕组**:
-    * **AniDB (Anime DataBase)**: 最详尽的番剧技术元数据维基，包括原生分辨率、音轨等信息。
-    * **知名字幕组/压制组的技术博客**: 如`VCB-Studio`等小组会公开发布其压制理念和技术教程，是理解番剧画质修复（去色带、超分等）的最佳参考。
-    * **Animesuki, Crymore.net等论坛**: 早期和现代动漫BT分享和讨论的聚集地。
-
-* **AV收藏**:
-    * **JavBus, JavLibrary**: AV作品的“IMDb”，是番号、厂商、演员信息最主要的公共数据库。
-
----
-### 📚 参考链接 (References)
-1.  [谈谈电影音频视频格式及常见种子命名规则 - ptbsare.org](https://ptbsare.org/2024/07/19/谈谈电影音频视频格式及常见种子命名规则/)
-2.  [Bilibili - HDR Vivid-“世界超高清视频产业联盟”推出的HDR新标准](https://www.bilibili.com/read/cv34408411/)
-3.  [博客园 - [转]史上最全的各种视频格式的解释](https://www.cnblogs.com/PBDragon/p/4810982.html)
-4.  [维基百科 - VP8](https://zh.wikipedia.org/wiki/VP8)
-5.  [维基百科 - VP9](https://zh.wikipedia.org/wiki/VP9)
-6.  [维基百科 - AV1](https://zh.wikipedia.org/wiki/AV1)
-7.  [维基百科 - Opus (音频格式)](https://zh.wikipedia.org/wiki/Opus)
-8.  [维基百科 - Apple ProRes](https://zh.m.wikipedia.org/wiki/Apple_ProRes)
-9.  [牛X-RTE - 什么是杜比视界、HDR10+、HDR10和HLG？](https://www.nxrte.com/jishu/32742.html)
-10. [GitHub - 常见音视频编码格式](https://github.com/0voice/audio_video_streaming/blob/main/article/012-常见音视频编码格式.md)
-11. [Hao4K - 4K电影中音频杜比和DTS是什么意思?](https://www.hao4k.cn/thread-31731-1-1.html)
-12. [搜狐 - 杜比全景声 (Dolby Atmos) 和 DTS:X 有什么区别？](https://www.sohu.com/a/638671599_120931436)
-13. [知乎 - 什么是WEB-DL，WEBRip，HDTV，BDRip以及REMUX？](https://zhuanlan.zhihu.com/p/337850228)
-14. [Einverne's Blog - What is 0day and what is PT](https://blog.einverne.info/post/2015/05/what-is-0day-and-what-is-pt.html)
-
----
-### ✨ 结语
-至此，这份关于数字影音收藏的“不完全”指南也到了尾声。从最基础的`1080p`与`Remux`，到硬核的`NFO`参数与`EAC Log`，我们一同探索了由技术与热爱共同构建的奇妙世界。
-
-规则虽繁杂，但其核心始终如一：为了以最忠实、最完美的方式，保存和体验那些曾带给我们感动与欢乐的作品。
-
-希望这份指南能成为您数字收藏之旅上的一张可靠地图，帮助您精准地找到属于自己的宝藏。
-
-Happy collecting!

@@ -1,7 +1,7 @@
 # 电影、剧集、番剧、AV及音乐的命名规则终极指南
 >一站式的指南，旨在帮助您理解和规范各类影音资源的命名。
 > 
->最后更新于：2025-08-23  GD
+>最后更新于：2025-08-23  GD整理
 
 ---
 
@@ -1081,3 +1081,22 @@ RMVB由于很多年没有更新编码，再加上当初开发RMVB是为了做网
     - **标签**: `[Uncensored-1080p]` ([无码](#-u--uncensored-无码无马赛克), 1080p分辨率)
     - **字幕**: `_CHS` (带中文字幕)
 </details>
+
+
+
+---
+## 📚 参考链接 (References)
+1.  [谈谈电影音频视频格式及常见种子命名规则 - ptbsare.org](https://ptbsare.org/2024/07/19/谈谈电影音频视频格式及常见种子命名规则/)
+2.  [Bilibili - HDR Vivid-“世界超高清视频产业联盟”推出的HDR新标准](https://www.bilibili.com/read/cv34408411/)
+3.  [博客园 - [转]史上最全的各种视频格式的解释](https://www.cnblogs.com/PBDragon/p/4810982.html)
+4.  [维基百科 - VP8](https://zh.wikipedia.org/wiki/VP8)
+5.  [维基百科 - VP9](https://zh.wikipedia.org/wiki/VP9)
+6.  [维基百科 - AV1](https://zh.wikipedia.org/wiki/AV1)
+7.  [维基百科 - Opus (音频格式)](https://zh.wikipedia.org/wiki/Opus)
+8.  [维基百科 - Apple ProRes](https://zh.m.wikipedia.org/wiki/Apple_ProRes)
+9.  [牛X-RTE - 什么是杜比视界、HDR10+、HDR10和HLG？](https://www.nxrte.com/jishu/32742.html)
+10. [GitHub - 常见音视频编码格式](https://github.com/0voice/audio_video_streaming/blob/main/article/012-常见音视频编码格式.md)
+11. [Hao4K - 4K电影中音频杜比和DTS是什么意思?](https://www.hao4k.cn/thread-31731-1-1.html)
+12. [搜狐 - 杜比全景声 (Dolby Atmos) 和 DTS:X 有什么区别？](https://www.sohu.com/a/638671599_120931436)
+13. [知乎 - 什么是WEB-DL，WEBRip，HDTV，BDRip以及REMUX？](https://zhuanlan.zhihu.com/p/337850228)
+14. [Einverne's Blog - What is 0day and what is PT](https://blog.einverne.info/post/2015/05/what-is-0day-and-what-is-pt.html)

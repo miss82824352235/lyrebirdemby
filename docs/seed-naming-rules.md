@@ -1081,10 +1081,6 @@ RMVB由于很多年没有更新编码，再加上当初开发RMVB是为了做网
     - **标签**: `[Uncensored-1080p]` ([无码](#-u--uncensored-无码无马赛克), 1080p分辨率)
     - **字幕**: `_CHS` (带中文字幕)
 </details>
-
-
-
----
 ## 📚 参考链接 (References)
 1.  [谈谈电影音频视频格式及常见种子命名规则 - ptbsare.org](https://ptbsare.org/2024/07/19/谈谈电影音频视频格式及常见种子命名规则/)
 2.  [Bilibili - HDR Vivid-“世界超高清视频产业联盟”推出的HDR新标准](https://www.bilibili.com/read/cv34408411/)

@@ -1,58 +1,53 @@
 # LyrebirdEmby (琴鸟)
 
-LyrebirdEmby 是 纯血硬盘 点播制 半公益 Emby影视库
-![LyrebirdEmby](/images/medialibpreview.png "媒体库预览")
+> 一个专注于品质与体验的纯粹观影家园。
 
-## Telegram
+![LyrebirdEmby 媒体库预览](https://raw.githubusercontent.com/kuefone/wiki/main/docs/images/medialibpreview.png)
 
-[通知频道](https://t.me/lyrebirdchannel) 
- 
-[聊天群组](https://t.me/lyrebirdchat)  
+---
 
-[入库通知频道](https://t.me/lyrebird_Inbound) 
+## 核心特性一览
 
-[机场地址](https://dash.lyrebird.cloud) 
+| 特性 | 描述 |
+| :--- | :--- |
+| **🚀 极致性能** | 企业级硬件，4K内容秒速加载，进度条随意拖拽。|
+| **💎 精选片源** | 坚持收藏官方蓝光与高码率资源，提供接近原盘的影音体验。|
+| **🤖 智能求片** | 7x24小时全自动机器人，一键搜罗全网，轻松入库。|
+| **❤️ 社区驱动** | 可持续的半公益模式，通过轻松活跃即可稳定持有账号。|
 
-[开号机器人]( https://t.me/Lyrebird_bot)
+---
 
-[机场合作账号机器人]( https://t.me/LyrebirdCloudBot)
+## Telegram 生态圈
 
-[自助查种机器人]( https://t.me/pteebot)
+我们的社区与服务围绕Telegram构建，您可以通过以下链接找到我们：
 
-[自助下片机器人]( https://t.me/Lyrebird_download_bot)
+| 名称 | 简介 | 链接 |
+| :--- | :--- | :--- |
+| **📢 通知频道** | 服务器状态、更新公告 | [点击加入](https://t.me/lyrebirdchannel) |
+| **💬 聊天群组** | 影迷交流、问题互助 | [点击加入](https://t.me/lyrebirdchat) |
+| **✈️ 合作机场** | 优化网络、流畅观影 | [访问主页](https://dash.lyrebird.cloud) |
+| **🤖 开号机器人** | 自助注册与账号管理 | [开始对话](https://t.me/Lyrebird_bot) |
+| **📥 下片机器人** | 自助求片与资源下载 | [开始对话](https://t.me/Lyrebird_download_bot) |
 
+---
 
+## 如何加入我们
 
-## 开服时间
+我们目前提供两种稳定、可持续的加入方式。
 
-2024-01-17 12:00:00 -- 至今
+* **✈️ 合作机场通道**
+    * **简介**：通过我们的合作机场服务，获取顶级线路并轻松加入。
+    * **链接**：[**查看合作机场加入指南**](https://wiki.lyrebirdemby.com/airport.html)
 
-## 服务性质
+* **💖 捐赠白名单通道**
+    * **简介**：通过直接支持社区发展的方式加入，您的支持是我们前进的动力。
+    * **链接**：[**访问Lyrebird捐赠商店**](https://store.lyrebirdemby.com)
 
-半公益性质，前期可通过自由开放注册加入以及签到鸟币换取加入，后期需合作机场加入或捐赠白名单加入  
-目前通过良好的机场合作返利，鸟服已经达到收支平衡，能够进行长期运营。  
+<br>
 
-
-## 适合人群
-
-Emby集邮退烧，PT/NAS退坑，自定义点播，追新剧集，追求速度，追求稳定，上至九十九，下至刚会走，男女老少皆宜。
-
-## 负载人数
-
-在保证高峰期也能流畅观影前提下，本服极限注册人数大约为1800人。目前1500人。会维持在1500人左右保证冗余
-
-## 注册方式
-
- ~~自由开放注册~~ 已结束
-
- ~~签到鸟币换取加入~~ 已结束
-
- 合作机场加入  https://wiki.lyrebirdemby.com/airport.html
-
- 捐赠白名单加入  https://store.lyrebirdemby.com
-
-
-
-
-
-
+> ---
+> **运营状态**
+> * **启航于**: `2024-01-17`
+> * **服务性质**: 可持续的半公益社区
+> * **当前容量**: `1500 / 1800` (为保证体验，动态调整)
+> ---

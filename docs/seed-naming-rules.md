@@ -5,7 +5,7 @@
 
 ---
 ## 🧭 总目录 (Table of Contents)
-> 点击下方分类标题，可展开/折叠该分类下的详细章节目录。
+> 点击下方分类标题，可展开/折<叠该分类下的详细章节目录。
 
 <details>
 <summary><strong>🎬 电影与电视剧 (Movies & TV Shows)</strong></summary>
@@ -561,3 +561,4 @@
 希望这份指南能成为您数字收藏之旅上的一张可靠地图，帮助您精准地找到属于自己的宝藏。
 
 Happy collecting!
+>

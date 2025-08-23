@@ -12,7 +12,7 @@ hero:
       link: /introduce
     - theme: alt
       text: Telegram群组
-      link: https://t.me/lyrebirdchat
+      link:  https://t.me/+8X2ZFrDPq5lkYTU1
   image:
     src: /images/lyrebird-logo-large.webp
     alt: LyrebirdEmby

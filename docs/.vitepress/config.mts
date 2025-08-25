@@ -19,6 +19,8 @@ export default defineConfig({
           { text: '介绍', link: '/introduce' },
           { text: '使用须知', link: '/rules' },
           { text: '求片指南', link: '/download' },
+          // 👇 在这里为您添加了新的页面链接
+          { text: '种子命名规则', link: '/seed-naming-rules' }, 
           { text: '合作机场', link: '/airport' },
           { text: '线路使用', link: '/line' },
           { text: '疑难杂症', link: '/faq' },
